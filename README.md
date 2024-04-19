@@ -10,7 +10,7 @@ This repository contains the **Learning from Unstructured Data project** develop
 
 ## Description
 
-The aim of the project is to compare Multi-Layer Perceptron (MLP) and Convolutional Neural Network (CNN) to afford a multi-class classification problem on CIFAR-100 dataset with coarse labels. The implementation of the networks are done using the Sequential Model of Tensorflow/Keras. 
+The aim of the project is to compare Multi-Layer Perceptron (MLP) and Convolutional Neural Network (CNN) to afford a multi-class classification problem on [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) dataset with coarse labels. The implementation of the networks are done using the Sequential Model of Tensorflow/Keras. 
 
 
 ## Repository Overview
